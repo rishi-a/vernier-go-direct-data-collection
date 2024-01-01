@@ -1,2 +1,2 @@
 # vernier-go-direct-data-collection
-Script to retrieve data from Vernier Go-Direct sensors
+Script tested only on Go-Direct EKG and Go-Direct Respiration Belt. 
